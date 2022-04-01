@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Ia</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="image_details_header">Details:</string>
+    <string name="image_preview_header">Preview:</string>
+    <string name="loading_message">Image en cours de récupération, veuillez patienter.</string>
+
+    <string name="dialog_select_prompt">Sélectionner une image</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Galerie</string>
+
+    <string name="image_picker_error">Quelque chose ne va pas avec cette image. Choisissez-en un autre s\'il vous plaît.</string>
+</resources>
